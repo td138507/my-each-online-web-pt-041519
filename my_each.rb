@@ -1,13 +1,5 @@
-def my_each(array) # put argument(s) here
+def my_each(1, 2, 3, 4) # put argument(s) here
   # code here
-  i = 0
-  while i < array.length
-    i = i + 1
+  my_each(collection) do |num|
+    puts num
   end
-  array
-end
-
-[1, 2, 3, 4]
-my_each(collection) do |num|
-  puts num
-end
