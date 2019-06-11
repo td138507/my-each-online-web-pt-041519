@@ -11,4 +11,3 @@ end
 my_each(collection) do |num|
   puts num
 end
-
