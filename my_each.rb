@@ -3,5 +3,3 @@ def my_each(number) # put argument(s) here
   text = "i"
   puts text
 end
-
-  
