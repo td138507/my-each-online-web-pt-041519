@@ -1,5 +1,7 @@
-def my_each(1, 2, 3, 4) # put argument(s) here
-  # code here
-  my_each(collection) do |num|
-    puts num
-  end
+def my_each(number) # put argument(s) here
+[1 , 2, 3, 4].each do |i|
+  text = "i"
+  puts text
+end
+
+  
